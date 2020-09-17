@@ -1,7 +1,8 @@
 ---
 ---
 
-[WEB](https://aannurwahidi7.github.io/os202/)
+[GitHub Pages](https://aannurwahidi7.github.io/os202/)
+<br>
 [GitHub](https://github.com/aannurwahidi7/os202/)
 
 <br>
