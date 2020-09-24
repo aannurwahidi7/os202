@@ -5,3 +5,6 @@ ZCZC W00 10 L00 General Log
 ZCZC W00 60 L00 Virtual Box Ralated
 ZCZC W00 60 L00 Creating GitHub Page
 ZCZC W00 90 L00 ZOOM
+
+ZCZC W01 90 L01 ZOOM Meeting
+ZCZC W01 60 L01 OSP4DISS cbkadal Tutorial
