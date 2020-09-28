@@ -16,9 +16,9 @@ Hello my name is Aan Nur Wahidi
 
 ## Operating Systems Weekly Top Ten List
 <br>
-[W00](https://github.com/aannurwahidi7/os202/blob/master/w00.md)<br>
-* * *
+[W00](w00.md)<br>
+---
 <br>
-[W01](https://github.com/aannurwahidi7/os202/blob/master/w01.md)<br>
-* * *
+[W01](w01.md)<br>
+---
 <br>
