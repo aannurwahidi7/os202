@@ -12,9 +12,8 @@ Hello my name is Aan Nur Wahidi
 ## [My Log](TXT/mylog.txt)
 * * *
 
-## Operating Systems Weekly Top Ten List
+### Operating Systems Weekly Top Ten List
 * * *
-<br>
 [W00](w00.md)<br>
 ---
 <br>
