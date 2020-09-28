@@ -16,7 +16,6 @@ Hello my name is Aan Nur Wahidi
 * * *
 [W00](w00.md)<br>
 ---
-<br>
 [W01](w01.md)<br>
 ---
 <br>
