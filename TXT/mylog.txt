@@ -12,4 +12,6 @@ ZCZC W01 120 L03 Looking for resource about OS
 
 ZCZC W02 90 L01 ZOOM Meeting
 ZCZC W02 30 L02 How to connect VM to Terminal (GSGS)
-ZCZC W02 120 L02 Assignment W02
+ZCZC W02 120 L03 Assignment W02 (without reviewing neigbours)
+ZCZC W02 30 L04 Reviewing 10 neighbours and make myranking.txt
+
