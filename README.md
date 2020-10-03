@@ -18,4 +18,6 @@ Hello my name is Aan Nur Wahidi
 ---
 [W01](w01.md)<br>
 ---
+[W02](w02.md)<br>
+---
 <br>
