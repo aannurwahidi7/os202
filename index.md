@@ -4,6 +4,16 @@
 [WEB](https://aannurwahidi7.github.io/os202/)
 |
 [GitHub](https://github.com/aannurwahidi7/os202/)
+|
+[My Public Key](TXT/mypubkey.txt)
+|
+[My Script](TXT/myscript.sh)
+|
+[My Top Ten Rank List](TXT/myrank.txt)
+|
+[SHA256SUM](TXT/SHA256SUM)
+|
+[SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 <br>
 Hello my name is Aan Nur Wahidi
@@ -14,8 +24,12 @@ Hello my name is Aan Nur Wahidi
 
 ### Operating Systems Weekly Top Ten List
 * * *
-[W00](w00.md)<br>
+* [W00](w00.md)
 ---
-[W01](w01.md)<br>
+* [W01](w01.md)
+---
+* [W02](w02.md)
+---
+* [W03](w03.md)
 ---
 <br>
