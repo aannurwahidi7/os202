@@ -10,10 +10,6 @@
 [My Script](TXT/myscript.sh)
 |
 [My Top Ten Rank List](TXT/myrank.txt)
-|
-[SHA256SUM](TXT/SHA256SUM)
-|
-[SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 <br>
 Hello my name is Aan Nur Wahidi
