@@ -1,0 +1,5 @@
+W04/
+W04/Makefile
+W04/week04.c
+W04/week04.h
+W04/myW04.txt
