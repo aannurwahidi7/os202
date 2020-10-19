@@ -19,11 +19,11 @@
 <br>
 ## Operating Systems Weekly Top Ten List
 
-* [Week 00](W00/)
-* [Week 01](W01/)
-* [Week 02](W02/)
-* [Week 03](W03/)
-* [Week 04](W04/)
+* [Week 00](w00.md)
+* [Week 01](w01.md)
+* [Week 02](w02.md)
+* [Week 03](w03.md)
+* [Week 04](w04.md)
 
 Wish You All The Best!!
 
