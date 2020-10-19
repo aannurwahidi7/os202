@@ -1,5 +1,5 @@
 #!/bin/bash
-# Cicak bin Kadal
+# Aan Nur Wahidi
 # Mon Sep 28 22:03:27 WIB 2020
 # Tue 29 Sep 2020 11:02:39 AM WIB
 # PALSU BANGET SEKALI UBAH
@@ -7,6 +7,8 @@
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+# delete file if there existe #SHA or #SHA.asc
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
