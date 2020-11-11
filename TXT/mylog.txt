@@ -61,7 +61,7 @@ ZCZC W06 15 L12 Assignment #2: Update my Virtual Guest and Update Files
 ZCZC W06 50 L13 Assignment #3: Review and pick 3 of my closest neighbors
 ZCZC W06 100 L14 Assignment #4: Create TOP 10 List of Week 06
 ZCZC W06 10 L15 Assignment #5: Run chktoken JOLANTRU and write the result to myW06token.txt
-ZCZC W06 25 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write to myW06.txt
+ZCZC W06 100 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write to myW06.txt
 ZCZC W06 8 L17 Assignment #7: Update mylog.txt
 ZCZC W06 5 L18 Assignment #8: Update bash script
 ZCZC W06 5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
