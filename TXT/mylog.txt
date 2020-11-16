@@ -66,4 +66,4 @@ ZCZC W06 8 L17 Assignment #7: Update mylog.txt
 ZCZC W06 5 L18 Assignment #8: Update bash script
 ZCZC W06 5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W06 5 L20 Assignment #10: Do ”make clean” your W06/ folder and ”tar” it back into myW06.tar.bz2.
-ZCZC W06 15 L21 Assignment #10: GnuPG encrypt (armor) to myW06.tar.bz2.txt.
+ZCZC W06 15 L21 Assignment #11: GnuPG encrypt (armor) to myW06.tar.bz2.txt.
