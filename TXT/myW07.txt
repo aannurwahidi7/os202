@@ -1,6 +1,0 @@
-[./p01] Share memory: ./p01
-[./p00] Share memory: ./p00
-[./p02] Share memory: ./p02
-[./p03] Share memory: ./p03
-[./p00] Share memory: ./p03
-[aannurwahidi7] A EVEN
