@@ -81,3 +81,4 @@ ZCZC W07 5 L19 Assignment #9: Update bash script
 ZCZC W07 5 L20 Assignment #10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W07 5 L21 Assignment #11: Do ”make clean” your W07/ folder and ”tar” it back into myW07.tar.bz2.
 ZCZC W07 15 L22 Assignment #12: GnuPG encrypt (armor) to myW07.tar.bz2.txt.
+ZCZC W07 90 L12 Assignment #2: Read: (OSC10 chapter 06 + chapter 07 + chapter 08)
