@@ -82,3 +82,16 @@ ZCZC W07 5 L20 Assignment #10: Make SHA256SUM and sign it (detached, armor) as S
 ZCZC W07 5 L21 Assignment #11: Do ”make clean” your W07/ folder and ”tar” it back into myW07.tar.bz2.
 ZCZC W07 15 L22 Assignment #12: GnuPG encrypt (armor) to myW07.tar.bz2.txt.
 ZCZC W07 90 L12 Assignment #2: Read: (OSC10 chapter 06 + chapter 07 + chapter 08)
+
+# Week 08
+ZCZC W08 90 L02 Zoom related
+ZCZC W08 180 L05 GSGS Related
+ZCZC W08 17 L13 Assignment #3: Update my Virtual Guest and Update Files
+ZCZC W08 35 L14 Assignment #4: Review and pick 3 of my closest neighbors
+ZCZC W08 90 L15 Assignment #5: Create TOP 10 List of Week 08
+ZCZC W08 10 L16 Assignment #6: Run chktoken LINUXFROMSCRATCH and write the result to myW08token.txt
+ZCZC W08 10 L17 Assignment #7: Update mylog.txt
+ZCZC W08 5 L18 Assignment #8: Update bash script
+ZCZC W08 5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W08 90 L20 Assignment #10: Place the assignment result into W08/ folder and ”tar” it into myW08.tar.bz2
+ZCZC W08 10 L21 Assignment #11: GnuPG encrypt (armor) to myW08.tar.bz2.txt
