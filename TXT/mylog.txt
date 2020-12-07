@@ -95,3 +95,15 @@ ZCZC W08 5 L18 Assignment #8: Update bash script
 ZCZC W08 5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W08 90 L20 Assignment #10: Place the assignment result into W08/ folder and ”tar” it into myW08.tar.bz2
 ZCZC W08 10 L21 Assignment #11: GnuPG encrypt (armor) to myW08.tar.bz2.txt
+
+# Week 09
+ZCZC W09 90 L02 Zoom Ralated
+ZCZC W09 20 L13 Assignment #3: update virtual guest
+ZCZC W09 30 L14 Assignment #4: update myrank.txt
+ZCZC W09 100 L15 Assignment #5: update TOP 10 list of week 09
+ZCZC W09 15 L16 Assignment #6: run chktoken and write to txt
+ZCZC W09 30 L17 Assignment #7: Update your log
+ZCZC W09 10 L18 Assignment #8: Update bash script
+ZCZC W09 15 L19 Assignment #9: Make SHA256SUM and sign it
+ZCZC W09 180 L20 Assignment #10: Place the assignment result into W09/ folder and ”tar” it into myW09.tar.bz2
+ZCZC W09 10 L21 Assignment #11: GnuPG encrypt (armor) to myW09.tar.bz2.txt
